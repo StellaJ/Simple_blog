@@ -1,1 +1,1 @@
-Hello everyone. This is my second aplication in Ruby o Rails. It's very simple and not finished blog. I put this on heroku: http://sheltered-reaches-3739.herokuapp.com/posts I want to improve both: blog and my knowledge, so in short time I will add some fine things (I think). Regards =)
+Hello everyone. This is my second aplication in Ruby o Rails. It's very simple and not finished blog. I put this on heroku: http://sheltered-reaches-3739.herokuapp.com/ I want to improve both: blog and my knowledge, so in short time I will add some fine things (I think). Regards =)
