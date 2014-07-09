@@ -1,6 +1,8 @@
 Blog::Application.routes.draw do
 
   
+  get "home/author"
+  get "home/contact"
   resources :posts do
     resources :comments
   end
