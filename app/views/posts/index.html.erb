@@ -2,10 +2,10 @@
 
 	<ul id ="posts">
 		<% @posts.each do |post| %>
-		<li>
+	    <p>
 			<%= link_to post.title, post_path(post) %>
 			<%= link_to 'Edit post', edit_post_path(post) %>
-		</li>
+		</p>
 		<% end %>
 	</ul>
 	<%= link_to 'New', new_post_path %>
