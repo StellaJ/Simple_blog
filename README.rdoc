@@ -5,7 +5,7 @@ Getting started
 Download from github
 
 
-git clone hhttps://github.com/StellaJ/Simple_blog.git
+git clone https://github.com/StellaJ/Simple_blog.git
 
 
 Run the bundle command to install it.
