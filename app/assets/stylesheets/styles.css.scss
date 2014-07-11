@@ -1,16 +1,15 @@
-
 $primary_color: #ffffff;
 
 body {
   background-color: $primary_color;
   font: {
-    family:"Roboto Slab", arial, sans-serif;
+    family: helvetica, verdana, arial, sans-serif;
     size: 14px;
   }
 }
 
 a {
-  color: #0000FF;
+  color: #333399;
   img {
     border: none;
   }
