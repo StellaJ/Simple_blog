@@ -1,11 +1,13 @@
-== Welcome to Simply Blog app by Stella Jedynak
+== Welcome to Simply Blog app 
+by Stella Jedynak
 
-Getting started
+##Getting started
 
 Download from github
 
+```console
 git clone https://github.com/StellaJ/Simple_blog.git
-
+'''
 Run the bundle command to install it.
 
 After create database:
